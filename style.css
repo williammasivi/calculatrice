@@ -1,0 +1,104 @@
+.parent{ 
+   border: solid black 1px;
+   margin: auto;
+   box-sizing: border-box;
+   border: solid black 1px;
+   width: fit-content;
+   padding: auto;
+} 
+.ecran{
+width: 96.8%;
+height: 2.5em; 
+background-color: black;
+color: beige;
+}
+
+.content1{
+  border: solid solid black 1px ;
+  border: 1px beige;
+  border-radius: 4px;
+}
+#suprimer{
+    height: 2em;
+    width: 8.3em;
+}
+#ddd{
+    height: 2em;
+    width: 4em;
+    background-color:rgb(224, 147, 53) ;
+}
+#dddf{
+    height: 2em;
+    width: 4em;
+}
+
+#division{
+    height: 2em;
+    width: 4em;
+    background-color:rgb(224, 147, 53) ;
+}
+ 
+#a{
+    height: 2em;
+    width: 4em;  
+}
+#b{
+    height: 2em;
+    width: 4em;  
+}
+#c{
+    height: 2em;
+    width: 4em;  
+}
+#d{
+    height: 2em;
+    width: 4em;  
+    background-color:rgb(224, 147, 53) ;
+}#aa{
+    height: 2em;
+    width: 4em;  
+   
+}
+#bb{
+    height: 2em;
+    width: 4em; 
+ 
+}
+#cc{
+    height: 2em;
+    width: 4em;  
+   
+}
+#dd{
+    height: 2em;
+    width: 4em; 
+    background-color:rgb(224, 147, 53) ; 
+}
+#aaa{
+    height: 2em;
+    width: 4em;  
+   
+}
+#bbb{
+    height: 2em;
+    width: 4em;  
+}
+#ccc{
+    height: 2em;
+    width: 4em;  
+}
+#aaaa{
+    height: 2em;
+    width: 12.6em;  
+}
+
+#bbbb{
+    height: 2em;
+    width: 4em;  
+    background-color:rgb(224, 147, 53) ;
+} 
+
+
+
+
+
